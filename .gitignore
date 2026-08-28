@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Temporary / backup files
+*.tmp
+*.bak
+~$*
+
+# Power BI local/cache artifacts
+.cache/
+
+# Python artifacts (if analysis scripts are added later)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Large Power BI backup files
+*.pbit
