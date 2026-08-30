@@ -189,7 +189,7 @@ AI-ML-Jobs-PowerBI/
 │
 ├── README.md
 ├── .gitignore
-├── powerbi/
+├── dashboard/
 │   └── JobAnalysis.pbix
 ├── data/
 │   ├── Companies.csv
@@ -213,7 +213,7 @@ AI-ML-Jobs-PowerBI/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/AI-ML-Jobs-PowerBI.git
+git clone https://github.com/Manassahu01/ai-ml-jobs-powerbi.git
 cd AI-ML-Jobs-PowerBI
 ```
 
@@ -222,7 +222,7 @@ cd AI-ML-Jobs-PowerBI
 Open:
 
 ```text
-powerbi/JobAnalysis.pbix
+dashboaed/JobAnalysis.pbix
 ```
 
 Use **Microsoft Power BI Desktop** to explore the report, model, relationships, measures, filters, and visuals.
